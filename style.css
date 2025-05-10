@@ -1,0 +1,47 @@
+body{
+  background-color: #e5e7e9;
+  margin: 30%;
+  margin-top:100px ;
+}
+#all{
+  background-color: #faf8f6;
+  white-space: 300px;
+  border:5px  blue;
+  border-radius: 15px;
+  width:300px;
+  margin-right: 200px;
+  padding: 20px;
+}
+#photo{
+  width:100px;
+  margin-left: 100px;
+ border: 200px;
+}
+#d1{
+  
+  margin-left: 180px;
+}
+h1{
+  margin-left:100px;
+  font-family: 
+}
+#enter{
+  background-color: #0000FF;
+  color:white ;
+  width: 300px;
+  border-radius: 10px;  
+  height: 40px;
+  border-color: white;
+  font-size: 20px;
+}
+#label{
+  font-size:20px ;
+  color: #99a3a4;
+  width : 100px;
+}
+#box{
+  width:280px;
+  height: 30px;
+  border-radius:5px;
+  border-color:white ;
+}
